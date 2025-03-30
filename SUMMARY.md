@@ -42,4 +42,9 @@
 
 ## CTFs
 
-* [Spark Ramadhan CTF](ctfs/spark-ramadhan-ctf.md)
+* [Spark Ramadhan CTF](ctfs/spark-ramadhan-ctf/README.md)
+  * [Shadow Grpah 2](ctfs/spark-ramadhan-ctf/shadow-grpah-2.md)
+  * [WhatIsXSS](ctfs/spark-ramadhan-ctf/whatisxss.md)
+  * [Shadow Graph](ctfs/spark-ramadhan-ctf/shadow-graph.md)
+  * [Struts](ctfs/spark-ramadhan-ctf/struts.md)
+  * [Secure BankSys](ctfs/spark-ramadhan-ctf/secure-banksys.md)
