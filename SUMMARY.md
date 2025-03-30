@@ -39,3 +39,7 @@
   * [MR ROBOT](machines/tryhackme/mr-robot.md)
   * [OPACITY](machines/tryhackme/opacity.md)
   * [Carnage](machines/tryhackme/carnage.md)
+
+## CTFs
+
+* [Spark Ramadhan CTF](ctfs/spark-ramadhan-ctf.md)
