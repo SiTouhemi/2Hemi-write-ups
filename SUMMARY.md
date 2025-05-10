@@ -35,6 +35,7 @@
   * [Dog](machines/hackthebox/dog.md)
   * [Titanic](machines/hackthebox/titanic.md)
   * [Trickster](machines/hackthebox/trickster.md)
+  * [Environment](machines/hackthebox/environment.md)
 * [TryHackMe](machines/tryhackme/README.md)
   * [MR ROBOT](machines/tryhackme/mr-robot.md)
   * [OPACITY](machines/tryhackme/opacity.md)
