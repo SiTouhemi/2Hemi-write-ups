@@ -37,6 +37,7 @@
   * [Trickster](machines/hackthebox/trickster.md)
   * [Environment](machines/hackthebox/environment.md)
   * [Planning.htb](machines/hackthebox/planning.htb.md)
+  * [Artificial](machines/hackthebox/artificial.md)
 * [TryHackMe](machines/tryhackme/README.md)
   * [MR ROBOT](machines/tryhackme/mr-robot.md)
   * [OPACITY](machines/tryhackme/opacity.md)
