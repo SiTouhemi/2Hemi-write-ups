@@ -21,6 +21,8 @@
 * [Random Challenges](web-challenges/random-challenges/README.md)
   * [0xL4ugh web CTF](web-challenges/random-challenges/0xl4ugh-web-ctf.md)
   * [Page 2](web-challenges/random-challenges/page-2.md)
+* [Intigriti+yeswehack Reports](web-challenges/intigriti+yeswehack-reports/README.md)
+  * [intigriti 0726 duplicate key json](web-challenges/intigriti+yeswehack-reports/intigriti-0726-duplicate-key-json.md)
 
 ## Machines
 
